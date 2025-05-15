@@ -1,6 +1,6 @@
 # Software Engineering Theory 4A
 
-Repository for group work.
+ReadTheDocs for groupwork
 
 ## Project Overview
 
